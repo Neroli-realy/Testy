@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>index</p>'; ?> 
+ <?php echo '<p>this site has been hacked by white hacker</p>'; ?> 
  </body>
 </html>
